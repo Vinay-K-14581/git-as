@@ -1,4 +1,7 @@
 this is app.txt created from Master branch
+
 1st line from Master
-2nd line from Master
 3rd line from Master
+1st line from Feature-1
+2nd line from Feature-1
+
